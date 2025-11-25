@@ -1,6 +1,11 @@
 vendor
 default/app/temp
 default/public/temp
+# personalizados
+/public/temp/*
+/public/files/*
+/public/img/uploads/*
+/app/logs/*
 
 # Mac filesystem dust
 .DS_Store
